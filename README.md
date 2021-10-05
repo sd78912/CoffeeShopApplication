@@ -28,6 +28,7 @@ This is an open source backend Application based on REST APIs to track customer 
 16. For deleting data click Delete Data and provide orderId of the customer which you want to delete and data will be deleted. 
 
 SAMPLE IMAGES: 
+
 1.MySql Database before data is added:
 
 ![Screenshot (371)](https://user-images.githubusercontent.com/64826389/135967464-3a94dd23-d818-453c-bf4a-045b38cf97f7.png)

@@ -10,12 +10,21 @@ This is an open source backend Application based on REST APIs to track customer 
 
 **Instructions for downloading the project:**
 
-1. Install MySql server on your system that will be used as local server for project.
-2. Inside Mysql Server create a database name 
-3. Download the zip file of the code and unzip on any of the drive
-4. Open InteliJ and click on open project.
-5. Start your XAMPP Control Panel and start 'Apache' and 'MySql' servers there.
-6. Open your browser and type 'localhost/' or '127.0.0.1/' , then from there go to phpmyadmin.
-7. Create a database named:'project' in phpmyadmin.
-8. Import the sql file which is in the sql directory.
-9. open any browser and type http://localhost/filename.
+1. Install MySql server on your system which will be used as your  local server for project.
+2. Inside Mysql Server create a database name ebdb.
+3. Import Dump20211005.sql in Mysql under ebdb database.
+4. Download Postman in your system.
+5. After downloading create a new workspace in your p
+6. Import exp.postman_collection.json file inside postman
+7. Download the zip file of the code and unzip on any of the drive.
+8. Open InteliJ and click on open project.
+9. Select the coffee application file and click ok.
+10. Go to Application.Properties file and change Mysql username and password with regards to your system .
+11. Click on build project and then click on Run StartCoffeeApplication.
+12. Go to postman and click on Add data and send request with orderid,name,foodname,amount of your choice and send request.
+13. Data will be added in MySql
+14. For retrieve data click Retrieve data and in the above url change the orderId with your orderid.
+15. For updating data click Update Data change the orderId with your orderid of your choice and then provide updated orderid,name,foodname,amount.
+16. For deleting data click Delete Data and provide orderId of the customer which you want to delete and data will be deleted. 
+
+

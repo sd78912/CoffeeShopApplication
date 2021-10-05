@@ -5,8 +5,11 @@ This is an open source backend Application based on REST APIs to track customer 
 **Features:**
 
 1.Adding Customer info in the database.
+
 2.Fetching Customer Details
+
 3.Updating Customer info in the database.
+
 4.Deleteing Customer info in the database.
 
 **Instructions for downloading the project:**

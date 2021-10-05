@@ -33,21 +33,21 @@ This is an open source backend Application based on REST APIs to track customer 
 
 **SAMPLE IMAGES:** 
 
-1.MySql Database before data is added:
+1. MySql Database before data is added:
 
 ![Screenshot (372)](https://user-images.githubusercontent.com/64826389/135968208-72932199-5bd8-4aa4-905e-e7039ad17920.png)
 
 
-2.Postman Post Mapping:
+2. Postman Post Mapping:
 
 ![Screenshot (373)](https://user-images.githubusercontent.com/64826389/135967905-2403adb0-6e19-435e-8b81-06c834a85f8d.png)
 
 
-3.MySql Database after data is added:
+3. MySql Database after data is added:
 
 ![Screenshot (374)](https://user-images.githubusercontent.com/64826389/135967734-04dd2ae7-ef9d-44be-b5e6-92757f197502.png)
 
-4.Postman Get Mapping:
+4. Postman Get Mapping:
 
 ![Screenshot (375)](https://user-images.githubusercontent.com/64826389/135967838-1334d226-987f-4839-9cd1-1d97bb007790.png)
 

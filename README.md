@@ -3,10 +3,10 @@
 This is an open source backend Application based on REST APIs to track customer activity and total bill amount.
 
 **Features:**
-1.Adding Customer Info to the database.
+1.Adding Customer info in the database.
 2.Fetching Customer Details
-3.Updating Customer Info.
-4.Deleteing Customer Info.
+3.Updating Customer info in the database.
+4.Deleteing Customer info in the database.
 
 **Instructions for downloading the project:**
 

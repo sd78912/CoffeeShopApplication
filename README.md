@@ -27,11 +27,12 @@ This is an open source backend Application based on REST APIs to track customer 
 15. For updating data click Update Data change the orderId with your orderid of your choice and then provide updated orderid,name,foodname,amount.
 16. For deleting data click Delete Data and provide orderId of the customer which you want to delete and data will be deleted. 
 
-SAMPLE IMAGES: 
+**SAMPLE IMAGES:** 
 
 1.MySql Database before data is added:
 
-![Screenshot (371)](https://user-images.githubusercontent.com/64826389/135967464-3a94dd23-d818-453c-bf4a-045b38cf97f7.png)
+![Screenshot (372)](https://user-images.githubusercontent.com/64826389/135968208-72932199-5bd8-4aa4-905e-e7039ad17920.png)
+
 
 2.Postman Post Mapping:
 

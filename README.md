@@ -18,7 +18,7 @@ This is an open source backend Application based on REST APIs to track customer 
 2. Inside Mysql Server create a database name ebdb.
 3. Import Dump20211005.sql in Mysql under ebdb database.
 4. Download Postman in your system.
-5. After downloading create a new workspace in your p
+5. After downloading create a new workspace in your postman
 6. Import exp.postman_collection.json file inside postman
 7. Download the zip file of the code and unzip on any of the drive.
 8. Open InteliJ and click on open project.

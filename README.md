@@ -1,6 +1,6 @@
 # CoffeeShopApplication
 
-This is an open source backend Application based on REST APIs to track customer activity and total bill amount.
+This is an open source backend Application based on REST APIs to track customer activity.
 
 **Features:**
 
